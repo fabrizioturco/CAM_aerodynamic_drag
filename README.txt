@@ -1,0 +1,1 @@
+This software tool allows to analyse collision avoidance manoeuvres using aerodynamic drag for the Flying Laptop.
