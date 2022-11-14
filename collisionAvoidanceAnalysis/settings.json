@@ -1,6 +1,6 @@
 {
-    "CDM_ID": "301671246",
-    "TLE_file_path": "C:/Users/fturc/Nextcloud/MA Turco/Checked_TLEs",
+    "CDM_ID": "",
+    "TLE_file_path": "",
     "density_model": "jb08",
     "t_1": 12600,
     "t_2": 1800,
@@ -12,8 +12,8 @@
         "deltaCB" : 0,
         "tc" : 0
     },
-    "username" : "turcof",
-    "password" : "JdD4CJVqvM54yAeXUry4",
+    "username" : "",
+    "password" : "",
     "figwidth" : 6,
     "figheight" : 4
 }
